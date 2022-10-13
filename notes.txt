@@ -1,0 +1,4 @@
+Clone the correct repo;
+conda create --name finance python=3.7 (must be >=3.7)
+Enter the code folder;
+Follow the ICAIF readme to install packages and pip install -r ./requirements.txt
